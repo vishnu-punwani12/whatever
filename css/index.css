@@ -1,3 +1,94 @@
-.color-red {
-color: darkmagenta;
+body {
+    color: blue;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(purple, white, black);
+    background-size: cover;
+    position: relative;
+    padding: 0vh;
+    margin: 0vh;
+
+}
+
+.DBZ {
+    background-image: url(/media/landing\ page\ cover.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    height: 100vh;
+    width: 175.45vh;
+}
+
+
+
+.super1 {
+
+    color: deeppink;
+    text-align: center;
+}
+
+.super2 {
+
+    color: darkviolet;
+    text-align: center;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+
+}
+
+h3 {
+
+    color: yellow;
+    text-align: center;
+}
+
+img {
+
+    display: block;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+iframe {
+
+    display: block;
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 560px;
+    margin: auto;
+
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.align {
+
+    display: block;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+p {
+
+    color: rgb(255, 0, 0);
+}
+
+.p {
+    color: yellow;
 }
