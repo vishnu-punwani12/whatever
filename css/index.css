@@ -97,8 +97,6 @@ p {
     transition: all ease-in-out 0.2s;
     cursor: pointer;
     background-color: none;
-  }
-  .hovername:hover{
-    border: 1px none;
     
   }
+ 
