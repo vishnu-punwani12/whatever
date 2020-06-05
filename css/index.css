@@ -92,3 +92,16 @@ p {
 .p {
     color: yellow;
 }
+
+.hovername {
+    border: none;
+    width: 32px;
+    height: 32px;
+    background-color: #eee;
+    transition: all ease-in-out 0.2s;
+    cursor: pointer;
+  }
+  .hovername:hover{
+    border: 1px solid #888;
+    background-color: #ddd;
+  }
