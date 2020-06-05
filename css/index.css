@@ -11,8 +11,10 @@ body {
 }
 
 .dbz {
-    background-image: url(/media/kamehouse.jpeg);
+    background-image: url(/media/newkamehouse.jpg);
     background-size: cover;
+    height: 100vh;
+    width: 175.25vh;
 
 }
 
