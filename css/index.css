@@ -11,14 +11,9 @@ body {
 }
 
 .dbz {
-    background-image: url(/media/landingpagecover.png);
+    background-image: url(/media/kamehouse.jpeg);
     background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    position: relative;
-    height: 100vh;
-    width: 175.45vh;
+
 }
 
 
