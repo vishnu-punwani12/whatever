@@ -14,7 +14,7 @@ body {
     background-image: url(/media/newkamehouse.jpg);
     background-size: cover;
     height: 100vh;
-    width: 175.25vh;
+    width: 100%;
 
 }
 
@@ -95,4 +95,29 @@ p {
     cursor: pointer;
     
   }
+
+  .two_columns {
+      display: flex;
+      justify-content: center;
+  }
  
+
+.socials {
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+.pagelocate {
+    color: lawngreen;
+    float: left;
+}
+
+.ss32{
+    padding left: 5vh;
+}
+
+.ss31{
+    padding-right: 5vh;
+}
