@@ -6,10 +6,41 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>dbzsite</title>
   <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/overlay.css">
+
+  <script src="js/overlay.js" type="text/javascript"></script>
 </head>
 
-
 <body>
+
+  <div>
+    <!-- The overlay -->
+    <div id="myNav" class="overlay">
+
+      <!-- Button to close the overlay navigation -->
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+      <!-- Overlay content --> <!--add spacing inbetween the arcs-->
+      <div class="overlay-content">
+
+        <a href="about.html">Home (Base Form)</a>
+
+        <a href="#">Super Saiyan</a>
+
+        <a href="ss2.html">Super Saiyan 2</a>
+
+        <a href="#">Super Saiyan 3</a>
+
+        <a href="#">Ultra Instinct</a>
+
+      </div>
+
+    </div>
+  </div>
+
+<div class="container" class="btn">
+  <button class="button" style="vertical-align:middle" onclick="openNav()"><span>Arc</span></button>
+</div>
   <img src="media/newkamehouse.jpg" class="dbz">
 
   <h1>Goku's Transformations</h1>
@@ -164,6 +195,7 @@
 
     </div>
   </div>
+
 </body>
 
 </html>
