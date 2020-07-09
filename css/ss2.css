@@ -71,7 +71,7 @@ body {
     color: blue;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(purple, white, black);
+    background-image: linear-gradient(blue, white, orange);
     background-size: cover;
     position: relative;
     padding: 0vh;
